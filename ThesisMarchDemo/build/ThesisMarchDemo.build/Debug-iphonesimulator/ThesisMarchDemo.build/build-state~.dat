@@ -1,0 +1,1052 @@
+TThesisMarchDemo
+v7
+r0
+t322589035.038023
+cCheck dependencies
+cProcessInfoPlistFile "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/Info.plist" ThesisMarchDemo-Info.plist
+cCompileXIB "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/MainWindow.xib"
+cCompileXIB "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemoViewController.xib"
+cCpResource build/Debug-iphonesimulator/ThesisMarchDemo.app/Timmony.aif Timmony.aif
+cProcessPCH /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch.gch ThesisMarchDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/main.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoAppDelegate.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoViewController.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/Annotation.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/AudioTourAppDelegate.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/FlipsideViewController.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/MainViewController.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004CC1226100000000000064FD
+t1287725665
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004CC122610000000000001F45
+t1287725665
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.h
+c000000004D754C4C000000000000025D
+t1299532876
+s605
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.m
+c000000004D7549F900000000000001BC
+t1299532281
+s444
+i"Annotation.h"
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.h
+c000000004CA2B50800000000000001E7
+t1285731592
+s487
+i<UIKit/UIKit.h>
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.m
+c000000004C9D71300000000000000AA3
+t1285386544
+s2723
+i"AudioTourAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.h
+c000000004CC12C9F0000000000000408
+t1287728287
+s1032
+i<UIKit/UIKit.h>
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.m
+c000000004D10B86B00000000000005BA
+t1292941419
+s1466
+i"FlipsideViewController.h"
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.h
+c000000004D77B0490000000000000D4A
+t1299689545
+s3402
+i"FlipsideViewController.h"
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"CoreLocation/CoreLocation.h"
+i"AudioToolbox/AudioToolbox.h"
+i"OpenAL/al.h"
+i"OpenAL/alc.h"
+i<math.h>
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.m
+c000000004D77C876000000000000739C
+t1299695734
+s29596
+i"MainViewController.h"
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m
+c000000004D8A18C00000000000001D3F
+t1300895936
+s7487
+i"ThesisMarchDemoAppDelegate.h"
+i"ThesisMarchDemoViewController.h"
+i<MapKit/MapKit.h>
+i"Annotation.h"
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m
+c000000004D8A19D600000000000074EF
+t1300896214
+s29935
+i"ThesisMarchDemoViewController.h"
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/thesisMarchDemoAppDelegate.h
+c000000004D8A19E300000000000002F9
+t1300896227
+s761
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+i"ThesisMarchDemoViewController.h"
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/thesisMarchDemoViewController.h
+c000000004D8A16ED0000000000000857
+t1300895469
+s2135
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"CoreLocation/CoreLocation.h"
+i"AudioToolbox/AudioToolbox.h"
+i"OpenAL/al.h"
+i"OpenAL/alc.h"
+i<math.h>
+i"ThesisMarchDemoAppDelegate.h"
+i"Annotation.h"
+i<MapKit/MapKit.h>
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/MainWindow.xib
+c000000004D8A14A30000000000004E89
+t1300894883
+s20105
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemoViewController.xib
+c000000004D8A17E0000000000000601B
+t1300895712
+s24603
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemo_Prefix.pch
+c000000004D8A14A300000000000000C7
+t1300894883
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Timmony.aif
+c000000004C8AA6F50000000002D55E00
+t1284155125
+s47537664
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app
+t2
+s0
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app.dSYM
+t2
+s0
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/Info.plist
+t1300896230
+s629
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/MainWindow.nib
+t1300896230
+s1139
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/PkgInfo
+t1300896230
+s8
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/ThesisMarchDemo
+t2
+s0
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/ThesisMarchDemoViewController.nib
+t1300896230
+s2116
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/Timmony.aif
+t1300896232
+s47537664
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/Annotation.o
+t1300896234
+s12424
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/AudioTourAppDelegate.o
+t1300896234
+s53052
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/FlipsideViewController.o
+t1300896234
+s42572
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/MainViewController.o
+t1300896235
+s100624
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemo.LinkFileList
+c000000004D8A19E600000000000004D3
+t1300896230
+s1235
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoAppDelegate.o
+t2
+s0
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoViewController.o
+t2
+s0
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/main.o
+t1300896234
+s6352
+
+N/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/main.m
+c000000004D8A14A30000000000000175
+t1300894883
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch.gch
+t1300896233
+s15453392
+
+NThesisMarchDemo-Info.plist
+c000000004D8A14A3000000000000038D
+t1300894883
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322589030#322589030#0(0"0(0#1#0"8590242848#0"0#
+
+CCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/Annotation.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589034.506071
+e322589034.605108
+r1
+xCompileC
+xbuild/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/Annotation.o
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.m322589034#322589034#0(0"0(0#0#83"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.m8625277824#2380"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -include /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Annotation.m" -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/Annotation.o"0#
+
+CCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/AudioTourAppDelegate.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589034.605336
+e322589034.836349
+r1
+xCompileC
+xbuild/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/AudioTourAppDelegate.o
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.m322589034#322589034#0(0"0(0#0#101"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.m8623658336#2408"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -include /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/AudioTourAppDelegate.m" -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/AudioTourAppDelegate.o"0#
+
+CCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/FlipsideViewController.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589034.728881
+e322589034.841773
+r1
+xCompileC
+xbuild/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.m322589034#322589034#0(0"0(0#0#103"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.m8622985408#2412"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -include /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/FlipsideViewController.m" -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/FlipsideViewController.o"0#
+
+CCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/MainViewController.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589034.836454
+e322589035.037943
+r1
+xCompileC
+xbuild/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/MainViewController.o
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.m322589034#322589035#0(0"0(0#0#99"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.m8627331936#2404"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -include /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/Classes/MainViewController.m" -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/MainViewController.o"0#
+
+CCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoAppDelegate.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589034.299760
+e322589034.504317
+r0
+xCompileC
+xbuild/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoAppDelegate.o
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m: In function '-[ThesisMarchDemoAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:85: warning: 'headingAvailable' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h:173)
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:27: warning: 'locationServicesEnabled' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h:124)
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m: In function '-[ThesisMarchDemoAppDelegate locationManager:didUpdateHeading:]':
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:183: error: expected ';' before 'setTransform'
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:183: error: expected statement before ']' token
+o{standard input}:837:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000002$pb"
+o{standard input}:837:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:831:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000002$pb"
+o{standard input}:831:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+o{standard input}:825:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:825:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:801:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000002$pb"
+o{standard input}:801:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:795:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000002$pb"
+o{standard input}:795:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+o{standard input}:789:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:789:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:767:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+o{standard input}:767:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:750:non-relocatable subtraction expression, "LC32" minus "L00000000002$pb"
+o{standard input}:750:symbol: "LC32" can't be undefined in a subtraction expression
+o{standard input}:742:non-relocatable subtraction expression, "LC32" minus "L00000000002$pb"
+o{standard input}:742:symbol: "LC32" can't be undefined in a subtraction expression
+o{standard input}:729:non-relocatable subtraction expression, "LC30" minus "L00000000002$pb"
+o{standard input}:729:symbol: "LC30" can't be undefined in a subtraction expression
+o{standard input}:726:non-relocatable subtraction expression, "LC29" minus "L00000000002$pb"
+o{standard input}:726:symbol: "LC29" can't be undefined in a subtraction expression
+o{standard input}:717:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+o{standard input}:717:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:709:non-relocatable subtraction expression, "LC31" minus "L00000000002$pb"
+o{standard input}:709:symbol: "LC31" can't be undefined in a subtraction expression
+o{standard input}:701:non-relocatable subtraction expression, "LC30" minus "L00000000002$pb"
+o{standard input}:701:symbol: "LC30" can't be undefined in a subtraction expression
+o{standard input}:698:non-relocatable subtraction expression, "LC29" minus "L00000000002$pb"
+o{standard input}:698:symbol: "LC29" can't be undefined in a subtraction expression
+o{standard input}:689:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+o{standard input}:689:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:682:non-relocatable subtraction expression, "LC22" minus "L00000000002$pb"
+o{standard input}:682:symbol: "LC22" can't be undefined in a subtraction expression
+o{standard input}:674:non-relocatable subtraction expression, "LC30" minus "L00000000002$pb"
+o{standard input}:674:symbol: "LC30" can't be undefined in a subtraction expression
+o{standard input}:671:non-relocatable subtraction expression, "LC29" minus "L00000000002$pb"
+o{standard input}:671:symbol: "LC29" can't be undefined in a subtraction expression
+o{standard input}:662:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+o{standard input}:662:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:657:non-relocatable subtraction expression, "LC28" minus "L00000000002$pb"
+o{standard input}:657:symbol: "LC28" can't be undefined in a subtraction expression
+o{standard input}:653:non-relocatable subtraction expression, "LC27" minus "L00000000002$pb"
+o{standard input}:653:symbol: "LC27" can't be undefined in a subtraction expression
+o{standard input}:641:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000002$pb"
+o{standard input}:641:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:635:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000002$pb"
+o{standard input}:635:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:578:non-relocatable subtraction expression, "LC22" minus "L00000000001$pb"
+o{standard input}:578:symbol: "LC22" can't be undefined in a subtraction expression
+o{standard input}:572:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000001$pb"
+o{standard input}:572:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+o{standard input}:566:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"
+o{standard input}:566:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:559:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000001$pb"
+o{standard input}:559:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:553:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:553:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:545:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:545:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:538:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:538:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:530:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000001$pb"
+o{standard input}:530:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:527:non-relocatable subtraction expression, "L_kCLHeadingFilterNone$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:527:symbol: "L_kCLHeadingFilterNone$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:521:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:521:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:511:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000001$pb"
+o{standard input}:511:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:504:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"
+o{standard input}:504:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:496:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000001$pb"
+o{standard input}:496:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:483:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000001$pb"
+o{standard input}:483:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:474:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:474:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:471:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:471:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:462:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000001$pb"
+o{standard input}:462:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:456:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:456:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"
+o{standard input}:439:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000001$pb"
+o{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:427:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:427:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:414:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:414:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:410:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:410:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:381:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000001$pb"
+o{standard input}:381:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:365:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000001$pb"
+o{standard input}:365:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:349:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000001$pb"
+o{standard input}:349:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:343:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"
+o{standard input}:343:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:334:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"
+o{standard input}:334:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:327:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000001$pb"
+o{standard input}:327:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:321:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:321:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:312:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+o{standard input}:312:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"
+o{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+o{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:295:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:295:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:289:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"
+o{standard input}:289:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:281:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:281:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:273:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"
+o{standard input}:273:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:265:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:265:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:258:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"
+o{standard input}:258:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000001$pb"
+o{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:243:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"
+o{standard input}:243:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:235:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:228:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:228:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:222:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:222:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:216:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:216:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:213:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:213:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:207:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:207:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:201:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:201:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:187:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000001$pb"
+o{standard input}:187:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:181:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:181:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:174:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:174:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_kCLHeadingFilterNone$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+o{standard input}:unknown:Undefined local symbol LC22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+o{standard input}:unknown:Undefined local symbol LC27
+o{standard input}:unknown:Undefined local symbol LC28
+o{standard input}:unknown:Undefined local symbol LC29
+o{standard input}:unknown:Undefined local symbol LC30
+o{standard input}:unknown:Undefined local symbol LC31
+o{standard input}:unknown:Undefined local symbol LC32
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+lSLF07#2@107"Compile /Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m322589034#322589034#0(22460"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m: In function '-[ThesisMarchDemoAppDelegate application:didFinishLaunchingWithOptions:]':/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:85: warning: 'headingAvailable' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h:173)/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:27: warning: 'locationServicesEnabled' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h:124)/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m: In function '-[ThesisMarchDemoAppDelegate locationManager:didUpdateHeading:]':/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:183: error: expected ';' before 'setTransform'/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m:183: error: expected statement before ']' token{standard input}:837:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000002$pb"{standard input}:837:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:831:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000002$pb"{standard input}:831:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:825:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000002$pb"{standard input}:825:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:801:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000002$pb"{standard input}:801:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:795:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000002$pb"{standard input}:795:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:789:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000002$pb"{standard input}:789:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:767:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"{standard input}:767:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:750:non-relocatable subtraction expression, "LC32" minus "L00000000002$pb"{standard input}:750:symbol: "LC32" can't be undefined in a subtraction expression{standard input}:742:non-relocatable subtraction expression, "LC32" minus "L00000000002$pb"{standard input}:742:symbol: "LC32" can't be undefined in a subtraction expression{standard input}:729:non-relocatable subtraction expression, "LC30" minus "L00000000002$pb"{standard input}:729:symbol: "LC30" can't be undefined in a subtraction expression{standard input}:726:non-relocatable subtraction expression, "LC29" minus "L00000000002$pb"{standard input}:726:symbol: "LC29" can't be undefined in a subtraction expression{standard input}:717:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"{standard input}:717:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:709:non-relocatable subtraction expression, "LC31" minus "L00000000002$pb"{standard input}:709:symbol: "LC31" can't be undefined in a subtraction expression{standard input}:701:non-relocatable subtraction expression, "LC30" minus "L00000000002$pb"{standard input}:701:symbol: "LC30" can't be undefined in a subtraction expression{standard input}:698:non-relocatable subtraction expression, "LC29" minus "L00000000002$pb"{standard input}:698:symbol: "LC29" can't be undefined in a subtraction expression{standard input}:689:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"{standard input}:689:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:682:non-relocatable subtraction expression, "LC22" minus "L00000000002$pb"{standard input}:682:symbol: "LC22" can't be undefined in a subtraction expression{standard input}:674:non-relocatable subtraction expression, "LC30" minus "L00000000002$pb"{standard input}:674:symbol: "LC30" can't be undefined in a subtraction expression{standard input}:671:non-relocatable subtraction expression, "LC29" minus "L00000000002$pb"{standard input}:671:symbol: "LC29" can't be undefined in a subtraction expression{standard input}:662:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"{standard input}:662:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:657:non-relocatable subtraction expression, "LC28" minus "L00000000002$pb"{standard input}:657:symbol: "LC28" can't be undefined in a subtraction expression{standard input}:653:non-relocatable subtraction expression, "LC27" minus "L00000000002$pb"{standard input}:653:symbol: "LC27" can't be undefined in a subtraction expression{standard input}:641:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000002$pb"{standard input}:641:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:635:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000002$pb"{standard input}:635:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:578:non-relocatable subtraction expression, "LC22" minus "L00000000001$pb"{standard input}:578:symbol: "LC22" can't be undefined in a subtraction expression{standard input}:572:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000001$pb"{standard input}:572:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:566:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"{standard input}:566:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:559:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000001$pb"{standard input}:559:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:553:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:553:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:545:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:545:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:538:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:538:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:530:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000001$pb"{standard input}:530:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:527:non-relocatable subtraction expression, "L_kCLHeadingFilterNone$non_lazy_ptr" minus "L00000000001$pb"{standard input}:527:symbol: "L_kCLHeadingFilterNone$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:521:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:521:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:511:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000001$pb"{standard input}:511:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:504:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"{standard input}:504:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:496:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000001$pb"{standard input}:496:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:483:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000001$pb"{standard input}:483:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:474:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:474:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:471:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:471:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:462:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000001$pb"{standard input}:462:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:456:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:456:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"{standard input}:439:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000001$pb"{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:427:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000001$pb"{standard input}:427:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:414:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:414:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:410:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:410:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:381:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000001$pb"{standard input}:381:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:365:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000001$pb"{standard input}:365:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:349:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000001$pb"{standard input}:349:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:343:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"{standard input}:343:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:334:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"{standard input}:334:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:327:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000001$pb"{standard input}:327:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:321:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000001$pb"{standard input}:321:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:312:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"{standard input}:312:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:295:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L00000000001$pb"{standard input}:295:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:289:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"{standard input}:289:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:281:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:281:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:273:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"{standard input}:273:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:265:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:265:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:258:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"{standard input}:258:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000001$pb"{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:243:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000001$pb"{standard input}:243:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:235:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:228:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:228:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:222:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:222:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:216:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:216:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:213:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:213:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:207:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:207:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:201:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"{standard input}:201:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:187:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000001$pb"{standard input}:187:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:181:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" minus "L00000000001$pb"{standard input}:181:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:174:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"{standard input}:174:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.window$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.viewController$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoAppDelegate.locationManager$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_kCLHeadingFilterNone$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol LC22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol LC27{standard input}:unknown:Undefined local symbol LC28{standard input}:unknown:Undefined local symbol LC29{standard input}:unknown:Undefined local symbol LC30{standard input}:unknown:Undefined local symbol LC31{standard input}:unknown:Undefined local symbol LC32{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_294(22@211"'headingAvailable' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h:173)322589034#189#325#0(6@99"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m322588736#85#0#85#0#33"'*' is deprecated (declared at *)0(22@218"'locationServicesEnabled' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h:124)322589034#514#332#0(6@99"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m322588736#27#0#27#0#33"'*' is deprecated (declared at *)0(4@34"Expected ';' before 'setTransform'322589034#1026#147#0(6@99"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m322588736#183#0#183#0#19"expected * before *0(4@35"Expected statement before ']' token322589034#1173#148#0(6@99"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m322588736#183#0#183#0#19"expected * before *0(0#0#99"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m8622515744#2412"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -include /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoAppDelegate.m" -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoAppDelegate.o"1#
+
+CCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoViewController.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589034.504420
+e322589034.728349
+r0
+xCompileC
+xbuild/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoViewController.o
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m: In function '-[ThesisMarchDemoViewController locationManager:didFailWithError:]':
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:880: error: 'locationManager' undeclared (first use in this function)
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:880: error: (Each undeclared identifier is reported only once
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:880: error: for each function it appears in.)
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m: In function '-[ThesisMarchDemoViewController dealloc]':
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:965: error: 'heading' undeclared (first use in this function)
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m: At top level:
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: incomplete implementation of class 'ThesisMarchDemoViewController'
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-showInfo:' not found
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-updateGainFloor' not found
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-updateAngleWidth' not found
+o/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-toggleTracking' not found
+o{standard input}:2775:non-relocatable subtraction expression, "LC78" minus "L00000000015$pb"
+o{standard input}:2775:symbol: "LC78" can't be undefined in a subtraction expression
+o{standard input}:2769:non-relocatable subtraction expression, "LC23" minus "L00000000015$pb"
+o{standard input}:2769:symbol: "LC23" can't be undefined in a subtraction expression
+o{standard input}:2755:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" minus "L00000000015$pb"
+o{standard input}:2755:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2722:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000014$pb"
+o{standard input}:2722:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2711:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_39" minus "L00000000014$pb"
+o{standard input}:2711:symbol: "L_OBJC_SELECTOR_REFERENCES_39" can't be undefined in a subtraction expression
+o{standard input}:2705:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000014$pb"
+o{standard input}:2705:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2683:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"
+o{standard input}:2683:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:2658:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"
+o{standard input}:2658:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:2638:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000014$pb"
+o{standard input}:2638:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:2618:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000014$pb"
+o{standard input}:2618:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2593:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"
+o{standard input}:2593:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:2585:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000014$pb"
+o{standard input}:2585:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2557:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000014$pb"
+o{standard input}:2557:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:2550:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000014$pb"
+o{standard input}:2550:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2531:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000014$pb"
+o{standard input}:2531:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2506:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"
+o{standard input}:2506:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:2500:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000014$pb"
+o{standard input}:2500:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2482:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000014$pb"
+o{standard input}:2482:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2385:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000013$pb"
+o{standard input}:2385:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:2340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000013$pb"
+o{standard input}:2340:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:2333:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000013$pb"
+o{standard input}:2333:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2302:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000012$pb"
+o{standard input}:2302:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:2288:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_38" minus "L00000000012$pb"
+o{standard input}:2288:symbol: "L_OBJC_SELECTOR_REFERENCES_38" can't be undefined in a subtraction expression
+o{standard input}:2275:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000012$pb"
+o{standard input}:2275:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:2269:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000012$pb"
+o{standard input}:2269:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:2266:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_8" minus "L00000000012$pb"
+o{standard input}:2266:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_8" can't be undefined in a subtraction expression
+o{standard input}:2231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000011$pb"
+o{standard input}:2231:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:2223:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000011$pb"
+o{standard input}:2223:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:2220:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000011$pb"
+o{standard input}:2220:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:2203:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_37" minus "L00000000011$pb"
+o{standard input}:2203:symbol: "L_OBJC_SELECTOR_REFERENCES_37" can't be undefined in a subtraction expression
+o{standard input}:2196:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"
+o{standard input}:2196:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2165:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:2165:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2157:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:2157:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2128:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"
+o{standard input}:2128:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2084:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:2084:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2066:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:2066:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2042:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:2042:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2034:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000011$pb"
+o{standard input}:2034:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:2027:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"
+o{standard input}:2027:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2018:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000011$pb"
+o{standard input}:2018:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:2011:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"
+o{standard input}:2011:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:2001:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"
+o{standard input}:2001:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1994:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"
+o{standard input}:1994:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:1984:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:1984:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1896:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000010$pb"
+o{standard input}:1896:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression
+o{standard input}:1894:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000010$pb"
+o{standard input}:1894:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+o{standard input}:1889:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_7" minus "L00000000010$pb"
+o{standard input}:1889:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_7" can't be undefined in a subtraction expression
+o{standard input}:1878:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000010$pb"
+o{standard input}:1878:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:1871:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000010$pb"
+o{standard input}:1871:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:1822:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000009$pb"
+o{standard input}:1822:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1803:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000009$pb"
+o{standard input}:1803:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:1796:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000009$pb"
+o{standard input}:1796:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:1777:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000009$pb"
+o{standard input}:1777:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1752:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000009$pb"
+o{standard input}:1752:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1746:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000009$pb"
+o{standard input}:1746:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1676:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000008$pb"
+o{standard input}:1676:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1661:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000008$pb"
+o{standard input}:1661:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:1654:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000008$pb"
+o{standard input}:1654:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:1635:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000008$pb"
+o{standard input}:1635:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1610:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000008$pb"
+o{standard input}:1610:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1604:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000008$pb"
+o{standard input}:1604:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1549:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"
+o{standard input}:1549:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1538:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000007$pb"
+o{standard input}:1538:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression
+o{standard input}:1521:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:1521:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1496:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"
+o{standard input}:1496:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1490:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:1490:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1448:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000006$pb"
+o{standard input}:1448:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+o{standard input}:1439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000006$pb"
+o{standard input}:1439:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:1428:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000006$pb"
+o{standard input}:1428:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:1418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000006$pb"
+o{standard input}:1418:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:1409:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000006$pb"
+o{standard input}:1409:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:1397:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000006$pb"
+o{standard input}:1397:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:1390:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000006$pb"
+o{standard input}:1390:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:1376:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000006$pb"
+o{standard input}:1376:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+o{standard input}:1366:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000006$pb"
+o{standard input}:1366:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:1363:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000006$pb"
+o{standard input}:1363:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression
+o{standard input}:1350:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:1350:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000006$pb"
+o{standard input}:1340:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:1331:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000006$pb"
+o{standard input}:1331:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+o{standard input}:1155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000004$pb"
+o{standard input}:1155:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:1152:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000004$pb"
+o{standard input}:1152:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+o{standard input}:1111:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:1111:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1089:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:1089:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1064:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:1064:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:1044:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
+o{standard input}:1044:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:1035:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"
+o{standard input}:1035:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:997:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:997:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:978:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:978:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:971:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:971:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:967:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:967:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:945:non-relocatable subtraction expression, "LC3" minus "L00000000003$pb"
+o{standard input}:945:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:937:non-relocatable subtraction expression, "LC3" minus "L00000000003$pb"
+o{standard input}:937:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:915:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:915:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:904:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:904:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:893:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+o{standard input}:893:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:886:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:886:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:882:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:882:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:864:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"
+o{standard input}:864:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:861:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"
+o{standard input}:861:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:853:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:853:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:845:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"
+o{standard input}:845:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:842:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:842:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:832:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:832:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:824:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"
+o{standard input}:824:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:821:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:821:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:811:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:811:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:804:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"
+o{standard input}:804:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:800:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:800:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:790:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:790:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:782:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:782:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:779:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:779:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:769:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:769:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:761:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:761:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:758:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:758:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:748:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:748:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:738:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+o{standard input}:738:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:731:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:731:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:723:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:723:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:720:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000003$pb"
+o{standard input}:720:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:707:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"
+o{standard input}:707:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:697:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
+o{standard input}:697:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:682:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:682:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:675:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
+o{standard input}:675:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:667:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:667:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:660:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
+o{standard input}:660:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:653:non-relocatable subtraction expression, "LC23" minus "L00000000003$pb"
+o{standard input}:653:symbol: "LC23" can't be undefined in a subtraction expression
+o{standard input}:647:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:647:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:640:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
+o{standard input}:640:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:631:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"
+o{standard input}:631:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:614:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"
+o{standard input}:614:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:608:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"
+o{standard input}:608:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:605:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000003$pb"
+o{standard input}:605:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:596:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000003$pb"
+o{standard input}:596:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:589:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"
+o{standard input}:589:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:585:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000003$pb"
+o{standard input}:585:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:572:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"
+o{standard input}:572:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:528:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:528:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:509:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:509:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:494:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:494:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:487:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:487:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:484:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"
+o{standard input}:484:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:267:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:267:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:256:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:256:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:250:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:250:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:241:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:241:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:231:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:231:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:189:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:189:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:184:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"
+o{standard input}:184:symbol: "LC4" can't be undefined in a subtraction expression
+o{standard input}:179:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainFloor$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:179:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainFloor$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:174:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"
+o{standard input}:174:symbol: "LC4" can't be undefined in a subtraction expression
+o{standard input}:169:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gainFloor$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:169:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gainFloor$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:164:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"
+o{standard input}:164:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:159:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainScale$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:159:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainScale$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:154:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:154:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:149:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGaussianC$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:149:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGaussianC$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:142:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:135:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:135:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:130:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:130:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:125:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:125:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.filterSize$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:118:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.filterSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:111:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:111:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:104:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:104:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:96:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:96:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:90:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:90:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:87:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:87:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:82:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:82:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:75:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:75:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:68:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.tracking$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:68:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.tracking$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.tracking$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.filterSize$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGaussianC$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainScale$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC3
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.gainFloor$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC4
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainFloor$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol LC23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_37
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_38
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_39
+o{standard input}:unknown:Undefined local symbol LC78
+lSLF07#2@110"Compile /Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589034#322589034#0(48440"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m: In function '-[ThesisMarchDemoViewController locationManager:didFailWithError:]':/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:880: error: 'locationManager' undeclared (first use in this function)/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:880: error: (Each undeclared identifier is reported only once/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:880: error: for each function it appears in.)/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m: In function '-[ThesisMarchDemoViewController dealloc]':/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:965: error: 'heading' undeclared (first use in this function)/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m: At top level:/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: incomplete implementation of class 'ThesisMarchDemoViewController'/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-showInfo:' not found/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-updateGainFloor' not found/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-updateAngleWidth' not found/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m:1091: warning: method definition for '-toggleTracking' not found{standard input}:2775:non-relocatable subtraction expression, "LC78" minus "L00000000015$pb"{standard input}:2775:symbol: "LC78" can't be undefined in a subtraction expression{standard input}:2769:non-relocatable subtraction expression, "LC23" minus "L00000000015$pb"{standard input}:2769:symbol: "LC23" can't be undefined in a subtraction expression{standard input}:2755:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" minus "L00000000015$pb"{standard input}:2755:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2722:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000014$pb"{standard input}:2722:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2711:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_39" minus "L00000000014$pb"{standard input}:2711:symbol: "L_OBJC_SELECTOR_REFERENCES_39" can't be undefined in a subtraction expression{standard input}:2705:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000014$pb"{standard input}:2705:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2683:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"{standard input}:2683:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:2658:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"{standard input}:2658:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:2638:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000014$pb"{standard input}:2638:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:2618:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000014$pb"{standard input}:2618:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2593:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"{standard input}:2593:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:2585:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000014$pb"{standard input}:2585:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2557:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000014$pb"{standard input}:2557:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:2550:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000014$pb"{standard input}:2550:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2531:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000014$pb"{standard input}:2531:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2506:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000014$pb"{standard input}:2506:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:2500:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000014$pb"{standard input}:2500:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2482:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000014$pb"{standard input}:2482:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2385:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000013$pb"{standard input}:2385:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:2340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000013$pb"{standard input}:2340:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:2333:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000013$pb"{standard input}:2333:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2302:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000012$pb"{standard input}:2302:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:2288:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_38" minus "L00000000012$pb"{standard input}:2288:symbol: "L_OBJC_SELECTOR_REFERENCES_38" can't be undefined in a subtraction expression{standard input}:2275:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000012$pb"{standard input}:2275:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:2269:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000012$pb"{standard input}:2269:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:2266:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_8" minus "L00000000012$pb"{standard input}:2266:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_8" can't be undefined in a subtraction expression{standard input}:2231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000011$pb"{standard input}:2231:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:2223:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000011$pb"{standard input}:2223:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:2220:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000011$pb"{standard input}:2220:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:2203:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_37" minus "L00000000011$pb"{standard input}:2203:symbol: "L_OBJC_SELECTOR_REFERENCES_37" can't be undefined in a subtraction expression{standard input}:2196:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"{standard input}:2196:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2165:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" minus "L00000000011$pb"{standard input}:2165:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2157:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" minus "L00000000011$pb"{standard input}:2157:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2128:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"{standard input}:2128:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2084:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"{standard input}:2084:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2066:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"{standard input}:2066:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2042:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"{standard input}:2042:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2034:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000011$pb"{standard input}:2034:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:2027:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"{standard input}:2027:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2018:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000011$pb"{standard input}:2018:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:2011:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"{standard input}:2011:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:2001:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"{standard input}:2001:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1994:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"{standard input}:1994:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:1984:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000011$pb"{standard input}:1984:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1896:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000010$pb"{standard input}:1896:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression{standard input}:1894:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000010$pb"{standard input}:1894:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression{standard input}:1889:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_7" minus "L00000000010$pb"{standard input}:1889:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_7" can't be undefined in a subtraction expression{standard input}:1878:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000010$pb"{standard input}:1878:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:1871:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000010$pb"{standard input}:1871:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:1822:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000009$pb"{standard input}:1822:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1803:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000009$pb"{standard input}:1803:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:1796:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000009$pb"{standard input}:1796:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:1777:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000009$pb"{standard input}:1777:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1752:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000009$pb"{standard input}:1752:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1746:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000009$pb"{standard input}:1746:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1676:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000008$pb"{standard input}:1676:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1661:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000008$pb"{standard input}:1661:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:1654:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000008$pb"{standard input}:1654:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:1635:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000008$pb"{standard input}:1635:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1610:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000008$pb"{standard input}:1610:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1604:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000008$pb"{standard input}:1604:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1549:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"{standard input}:1549:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1538:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000007$pb"{standard input}:1538:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression{standard input}:1521:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000007$pb"{standard input}:1521:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1496:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"{standard input}:1496:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1490:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000007$pb"{standard input}:1490:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1448:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000006$pb"{standard input}:1448:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:1439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000006$pb"{standard input}:1439:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:1428:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000006$pb"{standard input}:1428:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:1418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000006$pb"{standard input}:1418:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:1409:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000006$pb"{standard input}:1409:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:1397:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000006$pb"{standard input}:1397:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:1390:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000006$pb"{standard input}:1390:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:1376:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000006$pb"{standard input}:1376:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:1366:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000006$pb"{standard input}:1366:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:1363:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000006$pb"{standard input}:1363:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression{standard input}:1350:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000006$pb"{standard input}:1350:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000006$pb"{standard input}:1340:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:1331:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000006$pb"{standard input}:1331:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression{standard input}:1155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000004$pb"{standard input}:1155:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:1152:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000004$pb"{standard input}:1152:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression{standard input}:1111:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000003$pb"{standard input}:1111:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1089:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:1089:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1064:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:1064:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:1044:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"{standard input}:1044:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:1035:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"{standard input}:1035:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:997:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:997:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:978:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:978:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:971:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:971:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:967:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:967:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:945:non-relocatable subtraction expression, "LC3" minus "L00000000003$pb"{standard input}:945:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:937:non-relocatable subtraction expression, "LC3" minus "L00000000003$pb"{standard input}:937:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:915:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:915:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:904:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" minus "L00000000003$pb"{standard input}:904:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:893:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"{standard input}:893:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:886:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:886:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:882:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:882:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:864:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"{standard input}:864:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:861:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"{standard input}:861:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:853:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:853:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:845:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"{standard input}:845:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:842:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:842:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:832:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:832:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:824:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"{standard input}:824:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:821:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:821:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:811:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:811:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:804:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"{standard input}:804:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:800:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:800:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:790:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:790:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:782:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:782:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:779:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:779:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:769:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:769:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:761:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:761:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:758:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:758:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:748:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:748:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:738:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"{standard input}:738:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:731:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000003$pb"{standard input}:731:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:723:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:723:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:720:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000003$pb"{standard input}:720:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:707:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"{standard input}:707:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:697:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:697:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:682:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:682:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:675:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:675:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:667:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:667:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:660:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:660:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:653:non-relocatable subtraction expression, "LC23" minus "L00000000003$pb"{standard input}:653:symbol: "LC23" can't be undefined in a subtraction expression{standard input}:647:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:647:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:640:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:640:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:631:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"{standard input}:631:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:614:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"{standard input}:614:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:608:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"{standard input}:608:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:605:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000003$pb"{standard input}:605:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:596:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000003$pb"{standard input}:596:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:589:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"{standard input}:589:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:585:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000003$pb"{standard input}:585:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:572:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"{standard input}:572:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:528:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:528:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:509:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000003$pb"{standard input}:509:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:494:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:494:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:487:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:487:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:484:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"{standard input}:484:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:267:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" minus "L00000000002$pb"{standard input}:267:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:256:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" minus "L00000000002$pb"{standard input}:256:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:250:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" minus "L00000000002$pb"{standard input}:250:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:241:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" minus "L00000000002$pb"{standard input}:241:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:231:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" minus "L00000000002$pb"{standard input}:231:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:189:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:189:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:184:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"{standard input}:184:symbol: "LC4" can't be undefined in a subtraction expression{standard input}:179:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainFloor$non_lazy_ptr" minus "L00000000001$pb"{standard input}:179:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainFloor$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:174:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"{standard input}:174:symbol: "LC4" can't be undefined in a subtraction expression{standard input}:169:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gainFloor$non_lazy_ptr" minus "L00000000001$pb"{standard input}:169:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gainFloor$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:164:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"{standard input}:164:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:159:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainScale$non_lazy_ptr" minus "L00000000001$pb"{standard input}:159:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainScale$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:154:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:154:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:149:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGaussianC$non_lazy_ptr" minus "L00000000001$pb"{standard input}:149:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGaussianC$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" minus "L00000000001$pb"{standard input}:142:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:135:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" minus "L00000000001$pb"{standard input}:135:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:130:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:130:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:125:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" minus "L00000000001$pb"{standard input}:125:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.filterSize$non_lazy_ptr" minus "L00000000001$pb"{standard input}:118:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.filterSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:111:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" minus "L00000000001$pb"{standard input}:111:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" minus "L00000000001$pb"{standard input}:104:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:96:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:96:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:90:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:90:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:87:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:87:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:82:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" minus "L00000000001$pb"{standard input}:82:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:75:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" minus "L00000000001$pb"{standard input}:75:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:68:non-relocatable subtraction expression, "L_OBJC_IVAR_$_ThesisMarchDemoViewController.tracking$non_lazy_ptr" minus "L00000000001$pb"{standard input}:68:symbol: "L_OBJC_IVAR_$_ThesisMarchDemoViewController.tracking$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.tracking$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundsLoaded$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.soundLibrary$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.bufferSize$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.numBuffers$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.filterSize$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.gaussianC$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.format$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.freq$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGaussianC$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainScale$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC3{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.gainFloor$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC4{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.defaultGainFloor$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.mDevice$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_ThesisMarchDemoViewController.mContext$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol LC23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_37{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_38{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_39{standard input}:unknown:Undefined local symbol LC788(4@57"'locationManager' undeclared (first use in this function)322589034#186#173#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#880#0#880#0#43"'*' undeclared (first use in this function)0(4@49"'heading' undeclared (first use in this function)322589034#833#165#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#965#0#965#0#43"'*' undeclared (first use in this function)0(23@13"At top level:322589034#998#118#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#0#0#0#0#0"0(22@66"Incomplete implementation of class 'ThesisMarchDemoViewController'322589034#1116#185#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#1091#0#1091#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-showInfo:' not found322589034#1301#163#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#1091#0#1091#0#35"method definition for '*' not found0(22@50"Method definition for '-updateGainFloor' not found322589034#1464#169#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#1091#0#1091#0#35"method definition for '*' not found0(22@51"Method definition for '-updateAngleWidth' not found322589034#1633#170#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#1091#0#1091#0#35"method definition for '*' not found0(22@49"Method definition for '-toggleTracking' not found322589034#1803#168#0(6@102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m322589014#1091#0#1091#0#35"method definition for '*' not found0(0#0#102"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m8627264192#2418"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -include /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Classes/ThesisMarchDemoViewController.m" -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/ThesisMarchDemoViewController.o"1#
+
+CCompileC build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/main.o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589034.298324
+e322589034.505984
+r1
+xCompileC
+xbuild/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/main.o
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/main.m322589034#322589034#0(0"0(0#0#69"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/main.m8623239808#2360"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -include /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/main.m" -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/MainWindow.xib"
+s322589030.322103
+e322589030.746662
+r1
+xCompileXIB
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322589030#322589030#0(0"0(0#0#77"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/MainWindow.xib8619379584#656"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/MainWindow.nib" "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemoViewController.xib"
+s322589030.323014
+e322589030.936283
+r1
+xCompileXIB
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemoViewController.xib
+lSLF07#2@44"CompileXIB ThesisMarchDemoViewController.xib322589030#322589030#0(0"0(0#0#96"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemoViewController.xib8606095616#694"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/ThesisMarchDemoViewController.nib" "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemoViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ThesisMarchDemo.app/Timmony.aif Timmony.aif
+s322589030.746751
+e322589032.322483
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ThesisMarchDemo.app/Timmony.aif
+xTimmony.aif
+lSLF07#2@16"Copy Timmony.aif322589030#322589032#0(0"0(0#0#74"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Timmony.aif8627480416#555"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/Timmony.aif" "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app"0#
+
+CGenerateDSYMFile "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app.dSYM" "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/ThesisMarchDemo"
+r0
+
+CLd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/ThesisMarchDemo" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/Info.plist" ThesisMarchDemo-Info.plist
+s322589030.307708
+e322589030.322010
+r1
+xProcessInfoPlistFile
+x/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/Info.plist
+xThesisMarchDemo-Info.plist
+lSLF07#2@34"Process ThesisMarchDemo-Info.plist322589030#322589030#0(0"0(0#0#89"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemo-Info.plist8622588352#581"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ThesisMarchDemo-Info.plist -genpkginfo "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app/Info.plist"0#
+
+CProcessPCH /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch.gch ThesisMarchDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322589032.322671
+e322589034.298101
+r1
+xProcessPCH
+x/var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch.gch
+xThesisMarchDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile ThesisMarchDemo_Prefix.pch322589032#322589034#0(0"0(0#0#89"/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemo_Prefix.pch8623687744#2218"    cd "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-generated-files.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-own-target-headers.hmap" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-all-target-headers.hmap" -iquote "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/ThesisMarchDemo-project-headers.hmap" "-F/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/include" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources/i386" "-I/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/ThesisMarchDemo.build/Debug-iphonesimulator/ThesisMarchDemo.build/DerivedSources" -c "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/ThesisMarchDemo_Prefix.pch" -o /var/folders/MK/MKNp4XzsHt47X4XBj-6yME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ThesisMarchDemo_Prefix-cbpidckynhjanugzlkmjknbiijza/ThesisMarchDemo_Prefix.pch.gch0#
+
+CTouch "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/ThesisMarchDemo/build/Debug-iphonesimulator/ThesisMarchDemo.app"
+r0
+

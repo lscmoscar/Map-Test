@@ -1,0 +1,216 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ThesisMarchDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 3250}}";
+			sepNavSelRange = "{2204, 0}";
+			sepNavVisRange = "{0, 1135}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ThesisMarchDemo */ = {
+		activeExec = 0;
+		executables = (
+			71A3C67E133A4C2300E4DFF2 /* ThesisMarchDemo */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* ThesisMarchDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 14222}}";
+			sepNavSelRange = "{27361, 0}";
+			sepNavVisRange = "{29296, 706}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 71A3C67E133A4C2300E4DFF2 /* ThesisMarchDemo */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ThesisMarchDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ThesisMarchDemo */,
+		);
+		codeSenseManager = 71A3C68A133A4C2F00E4DFF2 /* Code sense */;
+		executables = (
+			71A3C67E133A4C2300E4DFF2 /* ThesisMarchDemo */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 322587683;
+			PBXWorkspaceStateSaveDate = 322587683;
+		};
+		perUserProjectItems = {
+			71A3C6AB133A515D00E4DFF2 /* PBXTextBookmark */ = 71A3C6AB133A515D00E4DFF2 /* PBXTextBookmark */;
+			71A3C6AD133A515D00E4DFF2 /* XCBuildMessageTextBookmark */ = 71A3C6AD133A515D00E4DFF2 /* XCBuildMessageTextBookmark */;
+			71A3C6AE133A515D00E4DFF2 /* PBXTextBookmark */ = 71A3C6AE133A515D00E4DFF2 /* PBXTextBookmark */;
+			71A3C6B9133A51E500E4DFF2 /* PBXTextBookmark */ = 71A3C6B9133A51E500E4DFF2 /* PBXTextBookmark */;
+			71A3C6BA133A51E500E4DFF2 /* XCBuildMessageTextBookmark */ = 71A3C6BA133A51E500E4DFF2 /* XCBuildMessageTextBookmark */;
+			71A3C6BB133A51E500E4DFF2 /* PBXTextBookmark */ = 71A3C6BB133A51E500E4DFF2 /* PBXTextBookmark */;
+			71A3C6D3133A524800E4DFF2 /* PBXTextBookmark */ = 71A3C6D3133A524800E4DFF2 /* PBXTextBookmark */;
+			71A3C6D4133A524800E4DFF2 /* XCBuildMessageTextBookmark */ = 71A3C6D4133A524800E4DFF2 /* XCBuildMessageTextBookmark */;
+			71A3C6D5133A524800E4DFF2 /* PBXTextBookmark */ = 71A3C6D5133A524800E4DFF2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 71A3C689133A4C2F00E4DFF2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	71A3C67E133A4C2300E4DFF2 /* ThesisMarchDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ThesisMarchDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	71A3C688133A4C2F00E4DFF2 /* Annotation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {927, 460}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 605}";
+		};
+	};
+	71A3C689133A4C2F00E4DFF2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	71A3C68A133A4C2F00E4DFF2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	71A3C68B133A4C3A00E4DFF2 /* Annotation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {927, 460}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 444}";
+		};
+	};
+	71A3C6AB133A515D00E4DFF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 71A3C6AC133A515D00E4DFF2 /* thesisMarchDemoAppDelegate.h */;
+		name = "thesisMarchDemoAppDelegate.h: 7";
+		rLen = 43;
+		rLoc = 129;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	71A3C6AC133A515D00E4DFF2 /* thesisMarchDemoAppDelegate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = thesisMarchDemoAppDelegate.h;
+		path = "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/thesisMarchDemo/Classes/thesisMarchDemoAppDelegate.h";
+		sourceTree = "<absolute>";
+	};
+	71A3C6AD133A515D00E4DFF2 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "ThesisMarchDemoController.h: No such file or directory";
+		fRef = 1D3623240D0F684500981E51 /* ThesisMarchDemoAppDelegate.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 6;
+		rType = 1;
+	};
+	71A3C6AE133A515D00E4DFF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 71A3C6AF133A515D00E4DFF2 /* thesisMarchDemoAppDelegate.h */;
+		name = "thesisMarchDemoAppDelegate.h: 7";
+		rLen = 43;
+		rLoc = 129;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	71A3C6AF133A515D00E4DFF2 /* thesisMarchDemoAppDelegate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = thesisMarchDemoAppDelegate.h;
+		path = "/Users/moosamus/Desktop/nyu/Thesis 2011/thesis/thesisMarchDemo/Classes/thesisMarchDemoAppDelegate.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {927, 460}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 761}";
+		};
+	};
+	71A3C6B9133A51E500E4DFF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 71A3C6AF133A515D00E4DFF2 /* thesisMarchDemoAppDelegate.h */;
+		name = "thesisMarchDemoAppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 157;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+	71A3C6BA133A51E500E4DFF2 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ';' before 'setTransform'";
+		fRef = 1D3623250D0F684500981E51 /* ThesisMarchDemoAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 182;
+		rType = 1;
+	};
+	71A3C6BB133A51E500E4DFF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ThesisMarchDemoAppDelegate.m */;
+		name = "ThesisMarchDemoAppDelegate.m: 183";
+		rLen = 0;
+		rLoc = 5165;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 5055;
+	};
+	71A3C6D3133A524800E4DFF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ThesisMarchDemoAppDelegate.m */;
+		name = "ThesisMarchDemoAppDelegate.m: 85";
+		rLen = 0;
+		rLoc = 2204;
+		rType = 0;
+		vrLen = 311;
+		vrLoc = 2028;
+	};
+	71A3C6D4133A524800E4DFF2 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incomplete implementation of class 'ThesisMarchDemoViewController'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* ThesisMarchDemoViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 1092;
+		rType = 1;
+	};
+	71A3C6D5133A524800E4DFF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ThesisMarchDemoViewController.m */;
+		name = "ThesisMarchDemoViewController.m: 1093";
+		rLen = 0;
+		rLoc = 29998;
+		rType = 0;
+		vrLen = 172;
+		vrLoc = 29830;
+	};
+}

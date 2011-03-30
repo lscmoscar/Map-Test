@@ -1,0 +1,26 @@
+//
+//  AudioTourAppDelegate.h
+//  AudioTour
+//
+//  Created by Brent Shadel on 9/24/10.
+//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@class MainViewController;
+
+@interface AudioTourAppDelegate : NSObject <UIApplicationDelegate>
+{
+    UIWindow *window;
+    MainViewController *mainViewController;
+}
+
+@property (nonatomic, retain) IBOutlet UIWindow *window;
+@property (nonatomic, retain) IBOutlet MainViewController *mainViewController;
+
+
+
+
+@end
+
